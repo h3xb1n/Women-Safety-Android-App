@@ -1,2 +1,2 @@
-# women-safety-android-app
+# Women-Safety-Android-App
 Women Safety Android Application is for the ladies who feel unsafe to step out of her home alone. At any moment if she finds herself in trouble, she can contact the three trustworthy people which she has specified in the application. Just on a single tap, she can either call or send a text message which tells the receiver that she is in trouble along with her GPS location specified in the text message.
